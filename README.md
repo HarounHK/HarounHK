@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harounhk" alt="harounhk" /></a> </p>
 
-- 🔭 I’m currently working on [Resume](https://github.com/HarounHK/resume)
+- 🔭 I’m currently working on the repository: [Resume](https://github.com/HarounHK/resume)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently working on further improving my front end skills using **Next.js**
 
 - 📫 How to reach me **haroun.kassouri@outlook.com**
 
